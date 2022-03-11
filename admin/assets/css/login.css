@@ -1,0 +1,26 @@
+.admin_login_form form input{
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: 0px;
+    padding: 10px;
+}
+.add_product_submition,
+.admin_login_form_submit{
+    background: blue;
+    color: white;
+    cursor: pointer;
+}
+.row{
+    margin: 0 !important
+}
+.add_product_form,
+.add_product_form input,
+.add_product_form select,
+.add_product_form textarea,
+.add_product_form label{
+	width: 100%;
+	margin: 10px 0;
+	padding: 10px;
+	border-radius: 10px;
+}
